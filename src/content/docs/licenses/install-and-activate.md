@@ -27,7 +27,7 @@ If you are replacing an older copy of the same plugin, WordPress asks what to do
    | Plugin | Where |
    |---|---|
    | News Sitemap & Schema | **News Schema → License** |
-   | DataMaps | **DataMaps → DataMaps license** |
+   | DataMaps | **Red Jaguar DataMaps → DataMaps license** |
 
    Until you activate it, the plugin menu shows only this screen.
 2. Paste the **License key** from the email.

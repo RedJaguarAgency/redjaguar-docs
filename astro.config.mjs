@@ -41,6 +41,14 @@ export default defineConfig({
 					label: 'News Sitemap & Schema',
 					items: [{ autogenerate: { directory: 'news-sitemap-schema' } }],
 				},
+				{
+					label: 'DataMaps',
+					items: [{ autogenerate: { directory: 'datamaps' } }],
+				},
+				{
+					label: 'Newsroom Privacy & Optimizer',
+					items: [{ autogenerate: { directory: 'newsroom-privacy-optimizer' } }],
+				},
 				{ label: 'Support', translations: { es: 'Soporte' }, slug: 'support' },
 			],
 		}),
