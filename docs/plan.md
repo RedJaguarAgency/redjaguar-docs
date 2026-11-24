@@ -132,11 +132,14 @@ redjaguar-docs/
 
 ## Publicar
 
-1. Phi crea el subdominio `docs.redjaguar.agency` en el panel del hosting, con certificado SSL.
-2. Para cada cambio: `npm run build` genera `dist/`, y el contenido de `dist/` se sube por FTP a la carpeta del subdominio.
-3. Más adelante, `bin/deploy.sh` puede hacer la subida con `lftp`, tomando la contraseña del llavero de la Mac. La contraseña nunca pasa por el chat.
+Cambio de plan del 2026-11-24: el sitio vive en **GitHub Pages**, no en el hosting.
 
-Nada se publica sin confirmación de Phi.
+- Cada push a `main` del repo `RedJaguarAgency/redjaguar-docs` compila y publica solo (`.github/workflows/deploy.yml`).
+- El dominio está en `public/CNAME` y en Settings → Pages del repo.
+- DNS en Namecheap: un registro CNAME `docs` → `redjaguaragency.github.io` (en lugar del A al hosting).
+- La copia subida por FTP a `/docs.redjaguar.agency` del hosting ya no se usa y se puede borrar, junto con el subdominio del cPanel.
+
+Nada se publica sin confirmación de Phi: un push a `main` es publicar.
 
 ## Mantenerlo al día
 

@@ -5,7 +5,8 @@ Manual para clientes de los plugins de Red Jaguar. Sitio estático hecho con Ast
 ## Comandos
 
 - `npm run dev`: sitio local en http://localhost:4321 (con `astro dev --background` para dejarlo corriendo).
-- `npm run build`: genera `dist/`, que es lo que se sube al subdominio.
+- `npm run build`: genera `dist/` para revisar en local.
+- **Publicar:** cada push a `main` publica solo en GitHub Pages (`.github/workflows/deploy.yml`), con el dominio `docs.redjaguar.agency` (`public/CNAME`). Nada de FTP.
 - `bin/po-lookup.py <archivo.po> "<texto en inglés>"`: busca cómo está traducido un texto de la interfaz.
 
 ## Reglas
