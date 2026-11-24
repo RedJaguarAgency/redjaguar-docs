@@ -19,6 +19,7 @@ export default defineConfig({
 		starlight({
 			title: 'Red Jaguar Docs',
 			description: 'Manuals for the Red Jaguar WordPress plugins.',
+			logo: { src: './src/assets/logo-red-jaguar.svg', alt: 'Red Jaguar' },
 			defaultLocale: 'root',
 			locales: {
 				root: { label: 'English', lang: 'en' },

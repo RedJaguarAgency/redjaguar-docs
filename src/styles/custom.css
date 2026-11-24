@@ -1,9 +1,6 @@
-/* Colores originales de Starlight. Solo el título va en rojo hasta tener el logo de Red Jaguar. */
+/* Colores originales de Starlight. Solo el título va en el rojo de la marca, junto al logo. */
 .site-title {
-	color: #d62828;
-}
-:root[data-theme='light'] .site-title {
-	color: #b71c1c;
+	color: #ee2a24;
 }
 
 /* Referencia de revisiones: la fila enlazada (#id) no queda bajo la barra y se resalta. */

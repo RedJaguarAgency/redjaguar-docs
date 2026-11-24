@@ -34,4 +34,5 @@ Manual para clientes de los plugins de Red Jaguar. Sitio estático hecho con Ast
 | `docs/enlaces-de-ayuda.md` | Qué página del manual le toca a cada pantalla de cada plugin |
 | `public/videos/datamaps/` | Los 5 videos tutoriales de DataMaps (en español; también en la versión en inglés hasta grabarlos en inglés) |
 | `src/content/docs/support.md` | Soporte (roar@redjaguar.agency) |
-| `src/styles/custom.css` | Colores originales de Starlight; solo el título en rojo hasta tener el logo (decisión de Phi, 2026-11-24) |
+| `src/styles/custom.css` | Colores originales de Starlight; solo el título en el rojo de la marca (#ee2a24), junto al logo (decisión de Phi, 2026-11-24) |
+| `src/assets/logo-red-jaguar.svg` | Logo (cabeza de jaguar), también en `public/favicon.svg`. Los tres logos originales están en `docs/marca/` |
