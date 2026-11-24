@@ -1,0 +1,20 @@
+# docs.redjaguar.agency (Apache). Se publica con el sitio desde public/.
+Options -Indexes
+ErrorDocument 404 /404.html
+
+# Forzar HTTPS
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{HTTPS} !=on
+	RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Los archivos de _astro llevan un código en el nombre: se pueden guardar mucho tiempo.
+<IfModule mod_headers.c>
+	<FilesMatch "\.(js|css|webp|jpg|png|svg|woff2?)$">
+		Header set Cache-Control "public, max-age=2592000"
+	</FilesMatch>
+	<FilesMatch "\.html$">
+		Header set Cache-Control "no-cache"
+	</FilesMatch>
+</IfModule>
