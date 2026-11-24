@@ -7,6 +7,8 @@ sidebar:
 
 In the **Fields** tab you decide what each record holds. Click **Add field** or **Add group**, drag to reorder, and click **Save fields**.
 
+![The Fields tab: each field with its type, where it shows and whether it is public.](../../../assets/datamaps/en/fields.jpg)
+
 ## Types of field
 
 | Type | For |

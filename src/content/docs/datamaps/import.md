@@ -7,7 +7,7 @@ sidebar:
 
 In the **Import** tab you can load a CSV or XLSX file (the first sheet), or [sync a Google Sheet](/datamaps/google-sheets/).
 
-<video controls preload="metadata" src="/videos/datamaps/2-importa-tu-excel.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/2-importa-tu-excel.jpg" src="/videos/datamaps/2-importa-tu-excel.mp4" width="100%"></video>
 
 *Video in Spanish.*
 

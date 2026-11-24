@@ -5,3 +5,11 @@
 :root[data-theme='light'] .site-title {
 	color: #b71c1c;
 }
+
+/* Referencia de revisiones: la fila enlazada (#id) no queda bajo la barra y se resalta. */
+.sl-markdown-content span[id] {
+	scroll-margin-top: calc(var(--sl-nav-height) + 2rem);
+}
+.sl-markdown-content tr:has(span[id]:target) {
+	background: var(--sl-color-accent-low);
+}

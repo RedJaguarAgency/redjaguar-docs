@@ -31,6 +31,8 @@ Abre **News Schema → Autores** para ver qué le falta al perfil de cada autor 
 
 Abre **News Schema → Sitemap**, copia la dirección de tu sitemap de noticias y envíala en [Google Search Console](https://search.google.com/search-console) → **Sitemaps**. Solo se hace una vez. Mira [Sitemap de noticias](/es/news-sitemap-schema/news-sitemap/).
 
+![El Panel del plugin: el diagnóstico y lo más importante para corregir.](../../../../assets/news-sitemap-schema/es/dashboard.jpg)
+
 ## Después
 
 El diagnóstico corre solo todos los días. Sus resultados están en el **Panel** del plugin, en un cuadro del escritorio de WordPress y en **Herramientas → Salud del sitio**. Activa las [alertas por correo](/es/news-sitemap-schema/readiness-check/#alertas-por-correo) para enterarte de los errores nuevos sin abrir WordPress.

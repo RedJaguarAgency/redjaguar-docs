@@ -31,6 +31,8 @@ Open **News Schema → Authors** to see what each author's profile is missing an
 
 Open **News Schema → Sitemap**, copy the address of your news sitemap and submit it in [Google Search Console](https://search.google.com/search-console) → **Sitemaps**. You only do this once. See [News sitemap](/news-sitemap-schema/news-sitemap/).
 
+![The plugin Dashboard: the readiness check and what is most important to fix.](../../../assets/news-sitemap-schema/en/dashboard.jpg)
+
 ## Then
 
 The readiness check runs every day by itself. Its results are on the plugin's **Dashboard**, in a box on the WordPress Dashboard and in **Tools → Site Health**. Turn on [email alerts](/news-sitemap-schema/readiness-check/#email-alerts) to hear about new errors without opening WordPress.

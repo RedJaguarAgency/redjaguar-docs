@@ -22,6 +22,8 @@ La biografía es el campo **Información biográfica** de WordPress. El correo d
 
 ## La pantalla Autores
 
+![La pantalla Autores: cargo, biografía y contacto de cada autor.](../../../../assets/news-sitemap-schema/es/authors.jpg)
+
 **News Schema → Autores** lista a todas las personas que firmaron notas, con lo que le falta a su perfil. Puedes completar cargos, biografías, redes y contactos de todas a la vez y hacer clic en **Guardar autores**.
 
 :::tip

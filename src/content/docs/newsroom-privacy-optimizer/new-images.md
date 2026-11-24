@@ -7,6 +7,8 @@ sidebar:
 
 The settings are in **Red Jaguar Newsroom → Settings → Hidden data in photos**.
 
+![The settings of hidden data in photos.](../../../assets/newsroom-privacy-optimizer/en/settings.jpg)
+
 ## Clean new images
 
 **Remove hidden data from every image when it is uploaded** is on by default. It removes EXIF (with its thumbnail), XMP, IPTC, comments and anything appended after the picture, from JPEG, PNG and WebP files, before WordPress makes its sizes.

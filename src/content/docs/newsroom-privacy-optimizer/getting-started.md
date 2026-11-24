@@ -28,3 +28,5 @@ Images uploaded before the plugin was active are **not** cleaned automatically.
 ## 4. Check the overview
 
 **Red Jaguar Newsroom → Overview** shows how your images are protected, item by item, marked as **Protected**, **Attention**, **At risk** or **Information**. It also warns you if your site does not use HTTPS: without it, photos travel unencrypted from the reporter's computer to your server, with all their hidden data, before the plugin can clean them.
+
+![The Overview: your media library and how new images are protected.](../../../assets/newsroom-privacy-optimizer/en/overview.jpg)

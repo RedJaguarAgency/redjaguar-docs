@@ -21,7 +21,7 @@ Views of the same dataset on one page share their filters, and the page address 
 
 ## Show in another site
 
-<video controls preload="metadata" src="/videos/datamaps/4-muestralo-en-otro-sitio.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/4-muestralo-en-otro-sitio.jpg" src="/videos/datamaps/4-muestralo-en-otro-sitio.mp4" width="100%"></video>
 
 *Video in Spanish.*
 

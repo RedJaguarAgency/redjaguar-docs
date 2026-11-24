@@ -7,6 +7,8 @@ sidebar:
 
 Los ajustes están en **Red Jaguar Newsroom → Ajustes → Datos ocultos en las fotos**.
 
+![Los ajustes de los datos ocultos en las fotos.](../../../../assets/newsroom-privacy-optimizer/es/settings.jpg)
+
 ## Limpiar imágenes nuevas
 
 **Eliminar los datos ocultos de cada imagen al subirla** viene encendido. Quita EXIF (con su miniatura), XMP, IPTC, comentarios y todo lo que vaya pegado después de la imagen, de los archivos JPEG, PNG y WebP, antes de que WordPress genere sus tamaños.

@@ -9,6 +9,8 @@ sidebar:
 
 ## Cómo leer los resultados
 
+![La pantalla Diagnóstico, con las revisiones agrupadas por sección.](../../../../assets/news-sitemap-schema/es/readiness-check.jpg)
+
 Cada revisión es un **error**, una **advertencia** o una **sugerencia**, y cada una explica cómo corregirla, paso a paso. Empieza por los errores.
 
 Las revisiones están agrupadas en secciones:
@@ -24,7 +26,7 @@ Las revisiones están agrupadas en secciones:
 - Seguridad y rendimiento
 - Revisiones manuales
 
-¿Palabras que no conoces? Mira el [glosario](/es/news-sitemap-schema/glossary/).
+¿Palabras que no conoces? Mira el [glosario](/es/news-sitemap-schema/glossary/). Todas las revisiones, y dónde se corrige cada una, están en la [referencia de revisiones](/es/news-sitemap-schema/checks/).
 
 ## Dónde más ves los resultados
 

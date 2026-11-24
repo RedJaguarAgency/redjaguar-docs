@@ -9,6 +9,8 @@ sidebar:
 
 ## Reading the results
 
+![The Readiness check screen, with the checks grouped by section.](../../../assets/news-sitemap-schema/en/readiness-check.jpg)
+
 Each check is an **error**, a **warning** or a **suggestion**, and each one explains how to fix it, step by step. Start with the errors.
 
 The checks are grouped in sections:
@@ -24,7 +26,7 @@ The checks are grouped in sections:
 - Security and performance
 - Manual checks
 
-Unfamiliar words? See the [glossary](/news-sitemap-schema/glossary/).
+Unfamiliar words? See the [glossary](/news-sitemap-schema/glossary/). Every check, and where to fix it, is in the [check reference](/news-sitemap-schema/checks/).
 
 ## Where else you see the results
 

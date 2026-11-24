@@ -1,6 +1,6 @@
 # Manual de los plugins: plan
 
-Fecha: 2026-11-24. Estado: fases 1 y 2 escritas, sin publicar.
+Fecha: 2026-11-24. Estado: fases 1, 2 y 3 (sin portugués) escritas, sin publicar.
 
 ## Decisiones tomadas
 
@@ -161,6 +161,7 @@ Nada se publica sin confirmación de Phi.
 - **2026-11-24, fase 1 escrita** (sin publicar): Inicio, Soporte, Licencias y cuenta (9 páginas) y News Sitemap & Schema (14 páginas), en inglés y español. `npm run build` da 51 páginas sin enlaces rotos. Encontré dos textos equivocados en News Sitemap & Schema; quedaron anotados en `gnews_easy/docs/pendientes.md`.
 
 - **2026-11-24, fase 2 escrita:** DataMaps (18 páginas, con los 5 videos) y Newsroom Privacy & Optimizer (10 páginas), en inglés y español. 107 páginas en total, sin enlaces rotos. Repo con git local (sin subir a GitHub todavía).
+- **2026-11-24, fase 3 (sin portugués):** referencia de las 79 revisiones del diagnóstico con un ancla por revisión (`news-sitemap-schema/checks/`), 16 capturas de pantalla (8 pantallas en inglés y en español, tomadas de los sitios locales de prueba), portadas de los videos y la tabla de enlaces de ayuda para los plugins (`docs/enlaces-de-ayuda.md`, anotada en los pendientes de cada plugin). Repo en GitHub: `RedJaguarAgency/redjaguar-docs` (quedó público).
 
 ## Pendientes
 
@@ -169,6 +170,6 @@ Nada se publica sin confirmación de Phi.
 - Videos de DataMaps en inglés.
 - Confirmar las direcciones en español de la tienda (Mi cuenta, licencia donada, términos, reembolsos). Por ahora el manual en español enlaza a las de inglés.
 - `bin/deploy.sh` para subir `dist/` (fase 1, cuando exista el subdominio).
-- Subir el repo a GitHub (`RedJaguarAgency`, privado), cuando Phi lo confirme.
-- Fase 3: capturas de pantalla, enlaces de ayuda dentro de los plugins y portugués.
-- Videos: una imagen de portada (poster) para que no se vean en negro antes de reproducirlos.
+- Portugués (`pt-br/`).
+- Que cada plugin ponga sus enlaces de ayuda (lo hace la sesión de cada plugin).
+- Volver a tomar las capturas cuando cambien las pantallas.

@@ -9,7 +9,7 @@ Each view is a piece you place in a page. Views of the same dataset on one page 
 
 In the **Views** tab, click **New view** and choose its type.
 
-<video controls preload="metadata" src="/videos/datamaps/3-publica-tu-monitor.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/3-publica-tu-monitor.jpg" src="/videos/datamaps/3-publica-tu-monitor.mp4" width="100%"></video>
 
 *Video in Spanish.*
 

@@ -48,6 +48,8 @@ Siguen el orden del trabajo: configurar, llenar, publicar.
 
 **Campos**, **Geografía**, **Vistas**, **Formularios** y **Ajustes** son solo para administradores.
 
+![La pestaña Resumen de una base: cifras, los pasos para publicarla y los shortcodes de sus vistas.](../../../../assets/datamaps/es/overview.jpg)
+
 ## Ajustes
 
 - **Qué es cada registro:** singular y plural, para las cifras y el mapa.

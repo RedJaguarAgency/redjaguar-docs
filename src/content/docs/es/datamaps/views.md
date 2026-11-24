@@ -9,7 +9,7 @@ Cada vista es una pieza que pones en una página. Las vistas de la misma base en
 
 En la pestaña **Vistas**, haz clic en **Nueva vista** y elige su tipo.
 
-<video controls preload="metadata" src="/videos/datamaps/3-publica-tu-monitor.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/3-publica-tu-monitor.jpg" src="/videos/datamaps/3-publica-tu-monitor.mp4" width="100%"></video>
 
 ## Tipos de vista
 

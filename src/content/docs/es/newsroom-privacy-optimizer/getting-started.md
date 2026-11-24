@@ -28,3 +28,5 @@ Las imágenes que se subieron antes de activar el plugin **no** se limpian solas
 ## 4. Revisa el panel
 
 **Red Jaguar Newsroom → Panel** muestra cómo están protegidas tus imágenes, punto por punto, marcado como **Protegido**, **Atención**, **En riesgo** o **Información**. También te avisa si tu sitio no usa HTTPS: sin él, las fotos viajan sin cifrar desde la computadora de quien reporta hasta tu servidor, con todos sus datos ocultos, antes de que el plugin pueda limpiarlas.
+
+![El Panel: tu biblioteca de medios y cómo se protegen las imágenes nuevas.](../../../../assets/newsroom-privacy-optimizer/es/overview.jpg)

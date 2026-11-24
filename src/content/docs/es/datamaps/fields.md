@@ -7,6 +7,8 @@ sidebar:
 
 En la pestaña **Campos** decides qué guarda cada registro. Haz clic en **Agregar campo** o **Agregar grupo**, arrastra para cambiar el orden y haz clic en **Guardar campos**.
 
+![La pestaña Campos: cada campo con su tipo, dónde se muestra y si es público.](../../../../assets/datamaps/es/fields.jpg)
+
 ## Tipos de campo
 
 | Tipo | Para |

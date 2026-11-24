@@ -48,6 +48,8 @@ They follow the order of the work: set up, fill, publish.
 
 **Fields**, **Geography**, **Views**, **Forms** and **Settings** are only for administrators.
 
+![The Overview tab of a dataset: figures, the steps to get it online and the shortcodes of its views.](../../../assets/datamaps/en/overview.jpg)
+
 ## Settings
 
 - **What each record is:** singular and plural, used in figures and on the map.

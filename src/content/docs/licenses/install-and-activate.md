@@ -35,6 +35,8 @@ If you are replacing an older copy of the same plugin, WordPress asks what to do
 
 The screen now shows the state of the license, the date until which you get updates, and the version installed. The plugin is ready.
 
+![The License screen of News Sitemap & Schema with an active license.](../../../assets/news-sitemap-schema/en/license.jpg)
+
 ## If something goes wrong
 
 - **"This license is in use on another site."** Each license works on one domain. Release it from the other site, or from your account, and try again. See [Move a license to another site](/licenses/move-to-another-site/).

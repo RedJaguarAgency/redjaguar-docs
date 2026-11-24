@@ -5,7 +5,7 @@ sidebar:
   order: 14
 ---
 
-<video controls preload="metadata" src="/videos/datamaps/5-tu-equipo.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/5-tu-equipo.jpg" src="/videos/datamaps/5-tu-equipo.mp4" width="100%"></video>
 
 ## Roles
 

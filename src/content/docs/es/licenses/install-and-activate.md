@@ -35,6 +35,8 @@ Si estás reemplazando una copia anterior del mismo plugin, WordPress te pregunt
 
 La pantalla ahora muestra el estado de la licencia, la fecha hasta la que recibes actualizaciones y la versión instalada. El plugin está listo.
 
+![La pantalla de Licencia de News Sitemap & Schema con una licencia activa.](../../../../assets/news-sitemap-schema/es/license.jpg)
+
 ## Si algo sale mal
 
 - **"Esta licencia está en uso en otro sitio."** Cada licencia funciona en un dominio. Libérala en el otro sitio o desde tu cuenta, y vuelve a intentarlo. Mira [Pasar una licencia a otro sitio](/es/licenses/move-to-another-site/).

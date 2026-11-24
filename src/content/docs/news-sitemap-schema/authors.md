@@ -22,6 +22,8 @@ The biography is the usual WordPress **Biographical Info** field. The email of t
 
 ## The Authors screen
 
+![The Authors screen: job title, biography and contact of each author.](../../../assets/news-sitemap-schema/en/authors.jpg)
+
 **News Schema → Authors** lists everyone who signed news articles, with what their profile is missing. You can complete job titles, biographies, networks and contacts for all of them at once and click **Save authors**.
 
 :::tip

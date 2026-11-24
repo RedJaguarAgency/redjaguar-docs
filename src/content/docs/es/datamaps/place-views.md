@@ -21,7 +21,7 @@ Las vistas de la misma base en una página comparten los filtros, y la direcció
 
 ## Mostrar en otro sitio
 
-<video controls preload="metadata" src="/videos/datamaps/4-muestralo-en-otro-sitio.mp4" width="100%"></video>
+<video controls preload="none" poster="/videos/datamaps/4-muestralo-en-otro-sitio.jpg" src="/videos/datamaps/4-muestralo-en-otro-sitio.mp4" width="100%"></video>
 
 **Vistas → Mostrar en otro sitio** te da un código para pegar en otro sitio web, por ejemplo el de un medio aliado: un bloque HTML en WordPress, o un código para insertar en otras plataformas.
 

@@ -29,6 +29,9 @@ Manual para clientes de los plugins de Red Jaguar. Sitio estático hecho con Ast
 | `src/content/docs/news-sitemap-schema/` | News Sitemap & Schema (textos es_MX de su `.po`) |
 | `src/content/docs/datamaps/` | DataMaps (textos es_ES de su `.po`) |
 | `src/content/docs/newsroom-privacy-optimizer/` | Newsroom Privacy & Optimizer, gratis en WordPress.org (textos es_ES de su `.po`) |
+| `src/assets/<plugin>/<en|es>/` | Capturas de pantalla, una por idioma. Se toman de los sitios locales de prueba con el idioma del usuario cambiado (y se restaura después) |
+| `src/content/docs/news-sitemap-schema/checks.md` | Referencia de revisiones del diagnóstico, con un ancla por id; los plugins enlazan a `#<id>` |
+| `docs/enlaces-de-ayuda.md` | Qué página del manual le toca a cada pantalla de cada plugin |
 | `public/videos/datamaps/` | Los 5 videos tutoriales de DataMaps (en español; también en la versión en inglés hasta grabarlos en inglés) |
 | `src/content/docs/support.md` | Soporte (roar@redjaguar.agency) |
 | `src/styles/custom.css` | Colores originales de Starlight; solo el título en rojo hasta tener el logo (decisión de Phi, 2026-11-24) |
