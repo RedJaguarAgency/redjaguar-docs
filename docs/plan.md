@@ -1,6 +1,6 @@
 # Manual de los plugins: plan
 
-Fecha: 2026-11-24. Estado: fases 1, 2 y 3 (sin portugués) escritas, sin publicar.
+Fecha: 2026-11-24. Estado: fases 1, 2 y 3 (sin portugués) publicadas en https://docs.redjaguar.agency (GitHub Pages, HTTPS forzado) desde el 2026-11-24.
 
 ## Decisiones tomadas
 
@@ -168,11 +168,11 @@ Nada se publica sin confirmación de Phi: un push a `main` es publicar.
 
 ## Pendientes
 
-- Logo y colores exactos de Red Jaguar (Phi).
-- Crear el subdominio `docs.redjaguar.agency` con SSL (Phi).
+- Borrar la copia vieja de `/docs.redjaguar.agency` y el subdominio en el cPanel del hosting (ya no se usan).
+- Verificar el dominio `redjaguar.agency` en la organización de GitHub (Settings → Pages → Add a domain).
+
 - Videos de DataMaps en inglés.
 - Confirmar las direcciones en español de la tienda (Mi cuenta, licencia donada, términos, reembolsos). Por ahora el manual en español enlaza a las de inglés.
-- `bin/deploy.sh` para subir `dist/` (fase 1, cuando exista el subdominio).
 - Portugués (`pt-br/`).
 - Que cada plugin ponga sus enlaces de ayuda (lo hace la sesión de cada plugin).
 - Volver a tomar las capturas cuando cambien las pantallas.
